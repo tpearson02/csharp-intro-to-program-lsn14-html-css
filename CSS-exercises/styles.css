@@ -1,2 +1,12 @@
 ﻿body {
+    background-color:yellow;
+}
+p{
+    color: green;
+}
+h1{
+    font-size: 36px;
+}
+h2-id{
+    color:blue;
 }
